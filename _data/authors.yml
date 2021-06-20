@@ -11,9 +11,9 @@ author1:
 
     something about me here
     <p align="center">
-    <img src="/assets/img/pic.png"> 
+    <img src="/assets/img/pic.jpg"> 
     </p>
-    
+
   # This photo will be used in the about section 
   picture:
     # path:            /assets/icons/me2.png
