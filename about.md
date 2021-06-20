@@ -1,10 +1,10 @@
 # Alexander R. Kahanek
 
-<span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">**<a href="mailto:m_r_g@live.com">m_r_g@live.com</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
+<a href="https://github.com/m-rami-g" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
+<a href="https://www.linkedin.com/in/m-rami/" target="_blank">LinkedIn</a>**</span>
 
 
 
@@ -82,10 +82,11 @@ R <- c(
 
 # **Contact Links**
 
-<span style="color:blue">**<a href="mailto:alexanderkahanek@gmail.com">alexanderkahanek@gmail.com</a>
+<span style="color:blue">**<a href="mailto:m_r_g@live.com">m_r_g@live.com</a>
 |
 <a href="https://alexander-kahanek.github.io" target="_blank">Personal Website</a>
 |
-<a href="https://github.com/alexander-kahanek" target="_blank">GitHub</a>
+<a href="https://github.com/m-rami-g" target="_blank">GitHub</a>
 |
-<a href="https://linkedin.com/in/alex-kah" target="_blank">LinkedIn</a>**</span>
+<a href="https://www.linkedin.com/in/m-rami/" target="_blank">LinkedIn</a>**</span>
+
