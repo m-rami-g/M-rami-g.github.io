@@ -1,4 +1,4 @@
-# Alexander R. Kahanek
+# Mohamed Rami Gaddem
 
 <span style="color:blue">**<a href="mailto:m_r_g@live.com">m_r_g@live.com</a>
 |
@@ -11,9 +11,9 @@
 ## **Employment**
 
 
-`Always Open` **Data Science Consulting**
+`Always Open` **Teaching Assistant**
 
-&nbsp; &nbsp; &nbsp; _Rubbish, co._
+&nbsp; &nbsp; &nbsp; _Tokyo Intsitute of Technology_
 
 : > Utilized Clustering Analysis to find insights into littering during events (Startup Grind 2020) and provided feedback on data-collection methods to improve data quality for future Machine Learning and Business ventures.
 
@@ -48,7 +48,7 @@ Kahanek, A., Yu, X., Cleveland, A., Philbrick, J., & Hong, L. _Temporal variatio
 
 ---------------------------------------------------------------------------------
 
-## **Programming skills**
+<!---## **Programming skills**
 
 ```python
 Python = [PyTorch, Keras, TensorFlow, Scikit-Learn, spaCy,
@@ -77,7 +77,7 @@ R <- c(
 
 : B.S. Data Science, Minor in Mathematics, Statistics Certification
 
-: Current **GPA: 3.9**
+: Current **GPA: 3.9**-->
 
 
 # **Contact Links**
