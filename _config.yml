@@ -43,7 +43,7 @@ author:
   name:                Mhamed Rami Gaddem
   email:               m_r_g@live.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             
+  # twitter:
 
 # Add links to the sidebar.
 menu:
@@ -319,7 +319,7 @@ relative_links:
 titles_from_headings:
   strip_title:         true
   collections:         true
-  
+
 replace_img:
   re_img:              <img\s*(?<attrs>.*?)\s*/>
   re_ignore:           (re|data)-ignore
