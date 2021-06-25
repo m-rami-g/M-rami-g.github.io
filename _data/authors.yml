@@ -10,9 +10,9 @@ author1:
   about:             |
 
     something about me here
-    <p align="center">
-    <img src="/assets/icons/mered.png">
-    </p>
+    #<p align="center">
+    #<img src="/assets/icons/mered.png">
+    #</p>
 
   # This photo will be used in the about section
   picture:
