@@ -11,21 +11,26 @@
 ## **Employment**
 
 
-`Always Open` **Teaching Assistant**
+**Tokyo Institute of Technology**
 
-&nbsp; &nbsp; &nbsp; _Tokyo Intsitute of Technology_
-
-: > something here
+&nbsp; &nbsp; &nbsp; _Graduate Teaching Assistant_
 
 : > something here
 
+: > something here
 
 
+## **Education**
+
+**Tokyo Institute of Technology**
+**National Institute of Applied Science and Technology**
 
 
 ## **Publications**
 
-
+Mohamed Rami Gaddem, Shinichi Ookawara, Krishna D.P. Nigam, Shiro Yoshikawa, Hideyuki Matsumoto, 
+Numerical modeling of segmented flow in coiled flow inverter: Hydrodynamics and mass transfer studies, 
+Chemical Engineering Science, Volume 234, 28 April 2021, 116400, 1-15
 
 
 ---------------------------------------------------------------------------------
