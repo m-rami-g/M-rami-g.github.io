@@ -47,13 +47,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
-    url:               /project/
   - title:             Resume
     url:               /about/
-  - title:             Example
+  - title:             Data Science
+    url:               /project/
+  - title:             Artificial Intelligence
     url:               /example/
-  - title:             Site tutorial
+  - title:             Scientific computing
     url:               /tutorial/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
