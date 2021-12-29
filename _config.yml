@@ -24,11 +24,11 @@ title:                Mohamed Rami Gaddem
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Chemical Engineering Ph.D.
+  Chemical Engineering D.Eng.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Selected Projects and Publications
+  Personal website
 
 # A list of keywords for your blog
 keywords:              [Chemical Engineering, Generative Art, Education]
@@ -49,11 +49,11 @@ author:
 menu:
   - title:             Resume
     url:               /about/
-  - title:             Data Science
+  - title:             Engineering Research Projects
     url:               /project/
-  - title:             Artificial Intelligence
+  - title:             Education Research Projects
     url:               /example/
-  - title:             Scientific computing
+  - title:             Other
     url:               /tutorial/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,12 +79,12 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/wallpaper.jpg
-accent_color:          rgb(153, 170, 187)
+#accent_color:          rgb(153, 170, 187)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+#theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
