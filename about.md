@@ -9,46 +9,32 @@
 
 ## **Professional Experience**
 
-### -  Postdoctoral Research Assistant (May 2021 ~ Present)
- : > something here
+**Postdoctoral Researcher (May 2021 ~ Present)**
 
- : > something here
+ > something here
 
-##### **Tokyo Institute of Technology - Online Education Development Office**
-
- : > something here
-
- : > something here
-
-**Tokyo Institute of Technology**
-**Tokyo Global Gateway**
-
+**Graduate Student developer** ()
+> Task
+ 
+**English Language Educator**
+> Task
 ## **Education**
 
-### - *Tokyo Institute of Technology*
+ **Tokyo Institute of Technology** - Tokyo
 
- : > something here
+  > Doctorate of Engineering: Chemical Science and Engineering (2017 ~ 2021)
 
- : > something here
+  > Master of Engineering: Chemical Engineering (2015 ~ 2017)
+  
+  > Researcher and Japanese language student (2015)
+  
 
- : > something here
+**National Institute of Applied Science and Technology** - Tunis
 
-**National Institute of Applied Science and Technology**
-
- : > something here
-
+  > National Diploma of Engineering: Bio-industry and Process Engineering (2009 ~ 2014)
 ## **Projects**
 
-## **Publications**
-### Journal Articles
- : > Journal paper: Hydrodynamics and Mixing in a Novel Design of Compact Microreactors: Arc Flow Inverters Chemical Engineering and Processing - Process Intensification, 2021, 108770, ISSN 0255-2701
- : > Journal paper: Numerical modeling of segmented flow in coiled flow inverter: Hydrodynamics and mass transfer studies, Chemical Engineering Science, Volume 234, 28 April 2021, 116400, 1-15
-### Conference proceedings
- : > Journal Paper: Investigating Mechanical Engineering Learners’ Satisfaction with a Revised Monozukuri MOOC, Universit ̈atsverlag Potsdam. pp. 237-247. 2021.
-### Conference presentations and posters
- : > Poster: Numerical study of multiphase mass transfer in helical microreactors, 18th Asian Pacific Confederation of Chemical Engineering Congess (International Conference published abstracts 2019)
- : > Oral presentation: Immobilization of Ionic Liquid as Catalyst for Biodiesel Production, The Sixth International Forum on Environement and Energy Science, Academy for Co-creative Education of Environment and Energy Science, Spain 2017
- : > Oral presentation: Biodiesel Production with Ionic Liquid Catalyst, Asia-Oceania Top University League on Engineering Conference 2016
+
 
 
   
