@@ -26,6 +26,7 @@
 ## **Education**
 
 ### - *Tokyo Institute of Technology*
+
 : > something here
 
 : > something here
@@ -33,7 +34,9 @@
 : > something here
 
 **National Institute of Applied Science and Technology**
+
 : > something here
+
 ## **Projects**
 
 ## **Publications**
