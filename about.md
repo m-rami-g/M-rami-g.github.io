@@ -18,6 +18,8 @@
  
 **English Language Educator**
 > Task
+
+
 ## **Education**
 
  **Tokyo Institute of Technology** - Tokyo
@@ -32,7 +34,10 @@
 **National Institute of Applied Science and Technology** - Tunis
 
   > National Diploma of Engineering: Bio-industry and Process Engineering (2009 ~ 2014)
+
+
 ## **Projects**
+
 
 
 
