@@ -10,15 +10,15 @@
 ## **Professional Experience**
 
 ### -  Postdoctoral Research Assistant (May 2021 ~ Present)
-: > something here
+ : > something here
 
-: > something here
+ : > something here
 
 ##### **Tokyo Institute of Technology - Online Education Development Office**
 
-: > something here
+ : > something here
 
-: > something here
+ : > something here
 
 **Tokyo Institute of Technology**
 **Tokyo Global Gateway**
@@ -27,15 +27,15 @@
 
 ### - *Tokyo Institute of Technology*
 
-: > something here
+ : > something here
 
-: > something here
+ : > something here
 
-: > something here
+ : > something here
 
 **National Institute of Applied Science and Technology**
 
-: > something here
+ : > something here
 
 ## **Projects**
 
