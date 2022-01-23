@@ -13,8 +13,8 @@
 : > something here
 
 : > something here
+
 ##### **Tokyo Institute of Technology - Online Education Development Office**
- _Graduate Teaching Assistant_
 
 : > something here
 
