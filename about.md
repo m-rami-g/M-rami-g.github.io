@@ -40,7 +40,7 @@
 ## **Projects**
 
 ## **Publications**
-  :> Journal paper: Hydrodynamics and Mixing in a Novel Design of Compact Microreactors: Arc Flow Inverters Chemical Engineering and Processing - Process Intensification, 2021, 108770, ISSN 0255-2701
+ : > Journal paper: Hydrodynamics and Mixing in a Novel Design of Compact Microreactors: Arc Flow Inverters Chemical Engineering and Processing - Process Intensification, 2021, 108770, ISSN 0255-2701
  : > Journal paper: Numerical modeling of segmented flow in coiled flow inverter: Hydrodynamics and mass transfer studies, Chemical Engineering Science, Volume 234, 28 April 2021, 116400, 1-15
  : > Journal Paper: Investigating Mechanical Engineering Learners’ Satisfaction with a Revised Monozukuri MOOC, Universit ̈atsverlag Potsdam. pp. 237-247. 2021.
  : > Poster: Numerical study of multiphase mass transfer in helical microreactors, 18th Asian Pacific Confederation of Chemical Engineering Congess (International Conference published abstracts 2019)
