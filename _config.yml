@@ -53,8 +53,8 @@ menu:
     url:               /project/
   - title:             Work in Progress
     url:               /example/
-  - title:             Other
-    url:               /tutorial/
+  - title:             Publications
+    url:               /about1/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
