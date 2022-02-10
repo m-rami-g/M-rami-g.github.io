@@ -10,11 +10,11 @@
 ## **Professional Experience**
 
 **Postdoctoral Researcher (May 2021 ~ Present)**
- :> Leading data analytics activities: collection and analysis of click-stream data generated online
+  > Leading data analytics activities: collection and analysis of click-stream data generated online
 
- :> Planning analytics research: assign tasks to assistants and manage research activities
+  > Planning analytics research: assign tasks to assistants and manage research activities
 
- :> Curating course contents: various scientific and engineering courses launched on edX platform
+  > Curating course contents: various scientific and engineering courses launched on edX platform
  
 **English Language Educator** (June 2018 ~ September 2020)
  > Designed and delivered courses: scientific courses for learners with various backgrounds
