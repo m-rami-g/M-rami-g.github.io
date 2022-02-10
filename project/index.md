@@ -1,10 +1,10 @@
 # <span style="color:blue">Completed Projects</span>
 
-Timeseries
+### Times series
 
-Clickstream data
+### Clickstream data
 
-Pytorch
+### Pytorch
 
-Engineering
+### Engineering
 
