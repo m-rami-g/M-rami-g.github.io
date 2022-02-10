@@ -10,15 +10,17 @@
 ## **Professional Experience**
 
 **Postdoctoral Researcher (May 2021 ~ Present)**
-
- > something here
-
-**Graduate Student developer** ()
-> Task
+> Leading data analytics activities: collection and analysis of click-stream data generated online
+> Planning analytics research: assign tasks to assistants and manage research activities
+> Curating course contents: various scientific and engineering courses launched on edX platform
  
-**English Language Educator**
-> Task
+**English Language Educator** (June 2018 ~ September 2020)
+> Designed and delivered courses: scientific courses for learners with various backgrounds
+> Established procedures: workflow manuals and rules for day-to-day activities and tasks
 
+**Graduate Student developer** (October 2016 ~ March 2021)
+> Coordinated tasks: ensuring smooth work flow and task completion across teams
+> Prepared content: for online courses
 
 ## **Education**
 
@@ -34,16 +36,6 @@
 **National Institute of Applied Science and Technology** - Tunis
 
   > National Diploma of Engineering: Bio-industry and Process Engineering (2009 ~ 2014)
-
-
-## **Projects**
-
-
-
-
-
-  
-
 
 
 ## **Areas of Expertise**
