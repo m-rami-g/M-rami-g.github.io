@@ -1,0 +1,6 @@
+title: Your Name's Website
+description: A personal website for showcasing research and publications.
+baseurl: ""
+url: "https://m-rami-g.github.io"
+plugins:
+  - jekyll-feed

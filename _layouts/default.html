@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <title>{{ page.title }}</title>
+</head>
+<body class="font-sans bg-gray-100">
+  <header class="bg-primary text-white py-4">
+    <nav class="container mx-auto flex justify-between items-center">
+      <a href="/" class="text-lg font-bold">My Website</a>
+      <ul class="flex space-x-4">
+        <li><a href="/about" class="hover:underline">About</a></li>
+        <li><a href="/research" class="hover:underline">Research</a></li>
+        <li><a href="/blog" class="hover:underline">Blog</a></li>
+        <li><a href="/contact" class="hover:underline">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class="container mx-auto py-8">
+    {{ content }}
+  </main>
+  <footer class="bg-gray-800 text-white py-4 mt-8">
+    <div class="container mx-auto text-center">
+      &copy; {{ 'now' | date: "%Y" }} Your Name
+    </div>
+  </footer>
+</body>
+</html>
