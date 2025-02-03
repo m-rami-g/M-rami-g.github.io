@@ -1,0 +1,15 @@
+name: jekyll-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ruby
+  - gcc
+  - make
+  - nodejs
+  - git
+  - pip
+  - pip:
+    - jekyll
+    - bundler
