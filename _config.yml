@@ -1,6 +1,9 @@
-title: Your Name's Website
-description: A personal website for showcasing research and publications.
-baseurl: ""
-url: "https://m-rami-g.github.io"
-plugins:
-  - jekyll-feed
+title: "Dr. Jane Doe - Portfolio ^& Blog" 
+description: "Personal website ^& blog for an early career academic. Showcasing research, publications, and creative projects in a dark minimalist style inspired by Gitfolio." 
+baseurl: "" 
+url: "https://yourusername.github.io" 
+markdown: kramdown 
+theme: minima 
+dark_theme: true 
+plugins: 
+  - jekyll-feed 
